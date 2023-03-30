@@ -1,0 +1,9 @@
+Jobs: Ta zakładka zawiera listę zadań (jobs), które zostały złożone w ramach danego klastra Spark w Databricks. Można tu śledzić stan wykonania poszczególnych zadań, zapoznać się z historią wykonania.
+Stages: Zakładka ta pokazuje listę wszystkich etapów (stages) w poszczególnych zadaniach. Można tutaj zobaczyć szczegóły poszczególnych etapów, takie jak czas trwania, liczbę operacji czy zużycie pamięci.
+Storage: Zakładka Storage wyświetla informacje o plikach i folderach znajdujących się w pamięci masowej klastra.
+Environment: Ta zakładka zawiera informacje na temat środowiska klastra, w tym informacje o wersji Spark, konfigurację klastra oraz biblioteki dostępne w klastrze.
+Executors: Ta zakładka zawiera informacje o egzekutorach (executors) klastra. Można tu śledzić zużycie zasobów przez poszczególne egzekutory, takie jak pamięć, procesor czy sieć.
+SQL/DataFrame: Zakładka ta zawiera narzędzia do przetwarzania danych w języku SQL i DataFrames. Można tu wykonywać prześledzić kolejność wykonywania poleceń.
+JDBC/ODBC Server: Ta zakładka zawiera narzędzia do pracy z bazami danych przy użyciu protokołów JDBC i ODBC.
+Structured Streaming: W tej chwili jest pusta, ale w internecie znalzłem że:
+zakładka ta zawiera narzędzia do przetwarzania strumieni danych (streaming) w czasie rzeczywistym przy użyciu technologii Structured Streaming. Można tu przetwarzać strumienie danych, przeglądać wyniki strumieniowe i dostosowywać konfigurację strumieni.
